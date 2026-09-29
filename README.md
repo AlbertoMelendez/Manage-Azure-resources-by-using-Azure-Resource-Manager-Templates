@@ -23,6 +23,16 @@ Configure the Cloud Shell and deploy a template with Azure PowerShell.
 
 <img width="941" height="494" alt="image" src="https://github.com/user-attachments/assets/593c26cc-094e-40eb-b38e-767e2da0ecfe" />
 
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/d0b5f608-b4f7-4b36-8367-5503a9944bc3" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/fbcc0df3-f628-430d-b40d-d8a6a89eec56" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/7961279f-f3d8-4a03-a81c-eb439e2be828" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/8f09dc44-faf1-41b2-aa6c-a839796901d5" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/01b72809-26bc-445b-8ddd-8734c166c936" />
+
 
 Deploy a template with the CLI.
 
