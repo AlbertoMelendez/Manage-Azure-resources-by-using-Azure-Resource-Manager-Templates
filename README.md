@@ -2,7 +2,8 @@
 
 Create an Azure Resource Manager template.
 
-<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/770a7faf-9b07-40f9-9c01-acf7e620b77c" />
+<img width="947" height="1026" alt="660831323-770a7faf-9b07-40f9-9c01-acf7e620b77c" src="https://github.com/user-attachments/assets/053158ac-282e-45e1-ab94-23368fec5b2b" />
+
 
 <img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/4c8eb024-4d7b-4adb-8115-4ff49e80055a" />
 
