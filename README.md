@@ -19,11 +19,10 @@ Edit an Azure Resource Manager template and redeploy the template.
 
 <img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/44849dcd-3e9f-4a98-806c-836b23d1ac03" />
 
-
-
-
-
 Configure the Cloud Shell and deploy a template with Azure PowerShell.
+
+<img width="941" height="494" alt="image" src="https://github.com/user-attachments/assets/593c26cc-094e-40eb-b38e-767e2da0ecfe" />
+
 
 Deploy a template with the CLI.
 
