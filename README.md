@@ -33,7 +33,20 @@ Configure the Cloud Shell and deploy a template with Azure PowerShell.
 
 <img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/01b72809-26bc-445b-8ddd-8734c166c936" />
 
+Deploy a template with the CLI (Bash)
 
-Deploy a template with the CLI.
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/ceae72cc-6753-46bd-811f-a9b765763157" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/cab9f9d4-3c60-407b-b0f6-49113207ccee" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/05c8fe5d-a0c4-4e36-8f09-ae297f6b3665" />
 
 Deploy a resource by using Azure Bicep.
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/d10ff9c6-23ae-4271-9397-a33f5d0e6dcd" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/4ecb2ee1-3131-4b5e-89fa-1ff537a9ce5f" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/fa841687-9c54-41f3-9dc0-0049a0684754" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/5b5db921-b785-4ece-80be-9639625da0dd" />
