@@ -9,6 +9,8 @@ Create an Azure Resource Manager template.
 
 <img width="1012" height="1160" alt="image" src="https://github.com/user-attachments/assets/c34fc534-e1c7-40a8-bf4f-43c6cbfa104d" />
 
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/9f3b948a-a7d6-421f-bd2d-1929ea0cd58d" />
+
 
 Edit an Azure Resource Manager template and redeploy the template.
 
